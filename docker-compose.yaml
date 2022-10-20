@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  app:
+    build: './full-stack-task'
+    container_name: app_c
+    ports:
+      - '5173:5173'
+    stdin_open: true
+    tty: true
