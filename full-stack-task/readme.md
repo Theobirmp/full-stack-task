@@ -11,7 +11,7 @@ Docker (Containerised APP)
 
 How to run the app
 1)visit the provided link
-https://full-stack-task-lyc95768z-theofanisbirmpilis.vercel.app/
+https://full-stack-task-theofanisbirmpilis.vercel.app/
 2)Run the app locally (needs node installed)
 visit https://github.com/Theobirmp/full-stack-task
 git clone https://github.com/Theobirmp/full-stack-task.git on any folder
